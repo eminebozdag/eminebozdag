@@ -7,5 +7,5 @@
 - 💬 Ask me about Soft Skills
 - 📫 How to reach me: @eminebozdag
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...I am very HAPPY !
+- ⚡ Fun fact: I am very HAPPY !
 
