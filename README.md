@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with Javascript
 - 💬 Ask me about Soft Skills
-- 📫 How to reach me: [Mail](fyrs00@hotmail.com)
+- 📫 How to reach me: 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...I am very HAPPY !
 -->
