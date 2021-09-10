@@ -1,3 +1,4 @@
+<div>
 ### Hi there, I'm Emine!<img  width="25px" src="https://user-images.githubusercontent.com/27498814/109383743-80eae680-78f9-11eb-8dbd-7ae5a7559249.gif"/>
 <div align="left" width="75%">
 <a href="https://www.linkedin.com/in/eminebozdag/">
@@ -44,4 +45,5 @@ I'm a self-taught passionate FrontEnd developer from Turkia 🇹🇷
 </div>
 <div align="right" width="25%">
 <p><img width="50%" src="./assets/code.gif" /></p>
+</div>
 </div>
