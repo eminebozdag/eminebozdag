@@ -2,7 +2,6 @@
 ### Hi there, I'm Emine!<img  width="25px" src="https://user-images.githubusercontent.com/27498814/109383743-80eae680-78f9-11eb-8dbd-7ae5a7559249.gif"/>
 
 
-
 <a href="https://www.linkedin.com/in/eminebozdag/">
   <img align="left" alt="Emine's LinkedIn" width="22px" src="https://user-images.githubusercontent.com/27498814/109384021-3ff3d180-78fb-11eb-9000-421b983e407e.png" />
 </a>
@@ -12,13 +11,18 @@
 <a href="mailto:fyrs00@hotmail.com">
   <img align="left" alt="Emine's Email" width="22px" src="https://user-images.githubusercontent.com/27498814/109384016-3e2a0e00-78fb-11eb-8547-a1fe5998a1f9.png" />
 </a>
+
+<br/>
+
 <p align="left"><img width="50%" src="./assets/code.gif" /></p>
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from Turkia 🇹🇷
+
 
 **About me**
+
+- 🇹🇷 I'm a self-taught passionate FrontEnd developer from Turkia !
 
 - 🌱 Jr. FrontEnd Developer
 
@@ -39,7 +43,7 @@ I'm a self-taught passionate FrontEnd developer from Turkia 🇹🇷
 
 
 #### Top Repository
-
+<br />
 <a href="https://github.com/eminebozdag/vehicle-analysis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eminebozdag&repo=vehicle-analysis&theme=buefy" />
 </a>
