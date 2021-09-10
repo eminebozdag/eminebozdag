@@ -13,12 +13,9 @@
 </a>
 
 <br/>
-
-<p align="left"><img width="50%" src="./assets/code.gif" /></p>
-
 <br />
-
-
+<p align="left"><img width="50%" src="./assets/code.gif" /></p>
+<br />
 
 **About me**
 
@@ -34,11 +31,11 @@
 
 **Languages and Tools:** 
 <br /> 
+
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="22" src="https://img.icons8.com/color/22/000000/mongodb.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
