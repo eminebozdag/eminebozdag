@@ -1,5 +1,4 @@
 
-<br />
 ### Hi there, I'm Emine!<img  width="25px" src="https://user-images.githubusercontent.com/27498814/109383743-80eae680-78f9-11eb-8dbd-7ae5a7559249.gif"/>
 
 
@@ -33,7 +32,8 @@
 
 <br />
 
-**Languages and Tools:**  
+**Languages and Tools:** 
+<br /> 
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
@@ -44,7 +44,6 @@
 
 
 #### Top Repository
-<br />
 <a href="https://github.com/eminebozdag/vehicle-analysis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eminebozdag&repo=vehicle-analysis&theme=buefy" />
 </a>
