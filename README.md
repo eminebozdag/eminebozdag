@@ -1,5 +1,5 @@
 ### Hi there, I'm Emine!<img  width="25px" src="https://user-images.githubusercontent.com/27498814/109383743-80eae680-78f9-11eb-8dbd-7ae5a7559249.gif"/>
-
+<div align="left" width="75%">
 <a href="https://www.linkedin.com/in/eminebozdag/">
   <img align="left" alt="Emine's LinkedIn" width="22px" src="https://user-images.githubusercontent.com/27498814/109384021-3ff3d180-78fb-11eb-9000-421b983e407e.png" />
 </a>
@@ -9,7 +9,6 @@
 <a href="mailto:fyrs00@hotmail.com">
   <img align="left" alt="Emine's Email" width="22px" src="https://user-images.githubusercontent.com/27498814/109384016-3e2a0e00-78fb-11eb-8547-a1fe5998a1f9.png" />
 </a>
-<p align="right"><a ><img width="25%" src="./assets/code.gif" /></a></p>
 
 <br />
 
@@ -26,21 +25,13 @@ I'm a self-taught passionate FrontEnd developer from Turkia 🇹🇷
 <br />
 
 **Languages and Tools:**  
-
-<code><img height="22" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
-
-<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>  
-
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
+<code><img height="22" src="https://img.icons8.com/color/22/000000/mongodb.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-
-<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>    
-
-<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>  
-
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
 
 
 #### Top Repository
@@ -50,3 +41,7 @@ I'm a self-taught passionate FrontEnd developer from Turkia 🇹🇷
 
 <br />
 <br />
+</div>
+<div align="right" width="25%">
+<p><img width="50%" src="./assets/code.gif" /></p>
+</div>
