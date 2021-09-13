@@ -19,13 +19,13 @@
 
 **About me**
 
-- 🇹🇷 I'm a self-taught passionate FrontEnd developer from Turkia !
+- 🇹🇷  I'm a self-taught passionate FrontEnd developer from Turkey !
 
-- 🌱 Jr. FrontEnd Developer
+- 🌱  Jr. FrontEnd Developer
 
-- ❤️ I love writing Javascript, and building fun experiments on type-level
+- ❤️  I love writing Javascript, and building fun experiments on type-level
 
-- 💬 Ask me about anything [here](https://github.com/eminebozdag/eminebozdag/issues)
+- 💬  Ask me about anything [here](https://github.com/eminebozdag/eminebozdag/issues)
 
 <br />
 
@@ -39,11 +39,6 @@
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-
-#### Top Repository
-<a href="https://github.com/eminebozdag/vehicle-analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eminebozdag&repo=vehicle-analysis&theme=buefy" />
-</a>
 
 <br />
 <br />
