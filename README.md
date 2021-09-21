@@ -19,7 +19,7 @@
 
 **About me**
 
-- 🇹🇷  I'm a self-taught passionate FrontEnd developer from Turkey !
+- 🇹🇷  I'm a passionate FrontEnd developer from Turkey !
 
 - 🌱  Jr. FrontEnd Developer
 
