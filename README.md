@@ -24,11 +24,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-<br/>
 
-<a href="https://app.daily.dev/eminebozdag"><img src="https://api.daily.dev/devcards/6d9db21f01f54498a3ccf32803ace522.png?r=xwm" width="400" alt="Emine Bozdağ's Dev Card"/></a>
-
-<br />
 
 
 
