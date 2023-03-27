@@ -7,14 +7,24 @@ Currently, I am developing a web applications using the latest web technologies 
 
 So, if you want to keep in touch with me please send me an e-mail or message on LinkedIn.
 
+<a href="https://emine.bozdag.dev/">
+  <img align="left" alt="Emine Bozdag's Personal Website" height="28px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=violet" />
+</a>
+
 <a href="https://www.linkedin.com/in/eminebozdag/">
-  <img align="left" alt="Emine's LinkedIn" width="40px" src="https://user-images.githubusercontent.com/27498814/109384021-3ff3d180-78fb-11eb-9000-421b983e407e.png" />
+  <img align="left" alt="Emine Bozdag's LinkedIn" height="28px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="https://medium.com/@eminebozdag">
-  <img align="left" alt="Emine's Medium" width="40px" src="https://user-images.githubusercontent.com/27498814/109384099-9e20b480-78fb-11eb-9ac6-72ec549e9289.png" />
+  <img align="left" alt="Emine Bozdag's Medium" height="28px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
+
+<a href="https://codepen.io/eminebozdag/">
+  <img align="left" alt="Emine Bozdag's CodePen" height="28px" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+</a>
+
 <a href="mailto:fyrs00@hotmail.com">
-  <img align="left" alt="Emine's Email" width="40px" src="https://user-images.githubusercontent.com/27498814/109384016-3e2a0e00-78fb-11eb-8547-a1fe5998a1f9.png" />
+  <img align="left" alt="Emine Bozdag's Email" height="28px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br />
@@ -25,7 +35,6 @@ So, if you want to keep in touch with me please send me an e-mail or message on 
 <code><img height="40" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png"></code>
 
 
 #### 🌐 Languages & Frameworks
